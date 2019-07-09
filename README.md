@@ -31,6 +31,6 @@ The model permits approaching ideomotor theory from a robotics point of view and
 
 ## References
 
-Greenwald, A. G. (1970). Sensory feedback mechanisms in performance control: With special reference to the ideo-motor mechanism. *Psychological Review, 77*(2), 73–99. https://doi.org/10.1037/h0028689<br>
-Pfister, R. (2019). Effect-based action control with body-related effects: Implications for empirical approaches to ideomotor action control. *Psychological Review, 126*(1), 153–161. https://doi.org/10.1037/rev0000140
-Schneegans, S. (2015). Cosivina - Matlab toolbox for dynamic field models, ver. 1.3. Retrieved from https://bitbucket.org/sschneegans/cosivina
+* Greenwald, A. G. (1970). Sensory feedback mechanisms in performance control: With special reference to the ideo-motor mechanism. *Psychological Review, 77*(2), 73–99. https://doi.org/10.1037/h0028689<br>
+* Pfister, R. (2019). Effect-based action control with body-related effects: Implications for empirical approaches to ideomotor action control. *Psychological Review, 126*(1), 153–161. https://doi.org/10.1037/rev0000140
+* Schneegans, S. (2015). Cosivina - Matlab toolbox for dynamic field models, ver. 1.3. Retrieved from https://bitbucket.org/sschneegans/cosivina
